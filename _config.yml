@@ -13,9 +13,9 @@ title                    : "Henk Bornman"
 title_separator          : "-"
 name                     : &name "Henk Bornman"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://hxnk-57.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "hxnk-57/hxnk-57.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "www.linkedin.com/in/henk-bornman-777930252"
+  linkedin         : "henk-bornman-777930252"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
